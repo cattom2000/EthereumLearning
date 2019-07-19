@@ -23,6 +23,7 @@
     "truffle-contract": "^3.0.7"
   },
   "dependencies": {
-    "solc": "^0.5.10"
+    "solc": "^0.5.10",
+    "mem": ">=4.0.0"
   }
 }
